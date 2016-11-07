@@ -1,5 +1,5 @@
 {
-  "links": [
+    "links": [
         {"source": "Asayake", "target": "Rica", "type": "child"},
         {"source": "Asayake", "target": "Yuki", "type": "child"},
         {"source": "Asayake", "target": "Taffy", "type": "child"},
@@ -105,7 +105,45 @@
         {"source": "Kyle", "target": "Theenie", "type": "child"},
         {"source": "Heather", "target": "Theenie", "type": "child"},
         {"source": "Justin", "target": "Nayuki", "type": "child"},
-        {"source": "Michael", "target": "Cameron", "type": "child"}
-
-      ]
+        {"source": "Michael", "target": "Cameron", "type": "child"},
+        {"source": "Stephanie", "target": "Jessy", "type": "child"},
+        {"source": "Jenny-Yuumi", "target": "Jessy", "type": "child"},
+        {"source": "Lauren", "target": "Kat", "type": "child"},
+        {"source": "Kinsey", "target": "Kat", "type": "child"},
+        {"source": "Alanis", "target": "Catie", "type": "child"},
+        {"source": "Josaleen", "target": "Catie", "type": "child"},
+        {"source": "Kyle", "target": "Samm", "type": "child"},
+        {"source": "Heather", "target": "Samm", "type": "child"},
+        {"source": "Theenie", "target": "Fabian", "type": "child"},
+        {"source": "David", "target": "Fabian", "type": "child"},
+        {"source": "Anthony", "target": "Ryan", "type": "child"},
+        {"source": "Dany", "target": "Ryan", "type": "child"},
+        {"source": "Aubrey", "target": "Ivy", "type": "child"},
+        {"source": "Beth", "target": "Dae", "type": "child"},
+        {"source": "Marina", "target": "Dae", "type": "child"},
+        {"source": "Cameron", "target": "Austin", "type": "child"},
+        {"source": "Michael", "target": "Austin", "type": "child"},
+        {"source": "Nayuki", "target": "Austin", "type": "child"},
+        {"source": "Ryan", "target": "Justin", "type": "child"},
+        {"source": "Fabian", "target": "Justin", "type": "child"},
+        {"source": "Kat", "target": "Justin", "type": "child"},
+        {"source": "Alanis", "target": "Joshua", "type": "child"},
+        {"source": "Dae", "target": "Joshua", "type": "child"},
+        {"source": "Theenie", "target": "Dylan", "type": "child"},
+        {"source": "David", "target": "Dylan", "type": "child"},
+        {"source": "Josalean", "target": "Hiroto", "type": "child"},
+        {"source": "Cameron", "target": "Hiroto", "type": "child"},
+        {"source": "Jenny-Yuumi", "target": "Yufei", "type": "child"},
+        {"source": "Stephanie", "target": "Yufei", "type": "child"},
+        {"source": "Danny", "target": "Kat3", "type": "child"},
+        {"source": "Anthony", "target": "Kat3", "type": "child"},
+        {"source": "Lauren", "target": "Denise", "type": "child"},
+        {"source": "Kinsey", "target": "Denise", "type": "child"},
+        {"source": "Samm", "target": "Jennifer", "type": "child"},
+        {"source": "Catie", "target": "Jennifer", "type": "child"},
+        {"source": "Michael", "target": "Kana", "type": "child"},
+        {"source": "Nayuki", "target": "Kana", "type": "child"},
+        {"source": "Kyle", "target": "Jolene", "type": "child"},
+        {"source": "Austin", "target": "Jolene", "type": "child"}
+    ]
 }
